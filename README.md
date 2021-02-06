@@ -1,1 +1,2 @@
-![](./img.jpg)
+<a href="https://github.com/dadope"> <img src="https://readme-typing-svg.herokuapp.com?color=%238296F7&duration=3500&width=800&lines=Perpetual+Learner;Python+enthusiast;Fascinated+by+XAI;Debugging+my+life+choices.................................."></a>
+<img src="cover.jpeg">
